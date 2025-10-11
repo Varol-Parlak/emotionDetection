@@ -46,4 +46,3 @@ except Exception as e:
     print(f"bir hata oluştu {e}")
 
 # My model seems to bias the sad emotion i still havent figured out why
-# Although i did train a model i would consider this a failure
